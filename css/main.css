@@ -1,0 +1,45 @@
+.menu .linkMenu{
+    text-decoration: none; 
+    margin: 20px 10px 0px; 
+    text-transform: uppercase; 
+    color: blue; 
+    font-weight: bold;
+    font-family: Arial,Helvetica, sans-serif;
+}
+#box1{
+    background: aqua;
+    border: 4px solid black;
+    padding: 10px 10px 10px 10px;
+    margin: -10px 0px 0px 0px;
+}
+#box2{
+    background: red;
+    border: 4px solid black;
+    padding: 10px 10px 10px 10px;
+    margin: -10px 0px 0px 0px;
+}
+#box3{ 
+    background: burlywood;
+    border: 5px solid black;
+    padding: 0px;
+    margin: 0px;
+}
+#box4{ 
+    background: rgb(172, 172, 172);
+    border: 2px solid black;
+    padding: 0px;
+    margin: 0px;
+}
+/* usado o barra e o asteristico transforma em comentario que não aparece no site */
+#vermelho{
+    color: black; 
+    margin: 20px 10px 0px; 
+    font-weight: bold;
+    font-family: Arial,Helvetica, sans-serif;
+}
+input[type=text] {
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 166);
+}
