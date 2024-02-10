@@ -43,3 +43,11 @@ input[type=text] {
     padding: 0px;
     margin: 0px;
 }
+#box5{
+    background-color: rgb(172, 172, 172);
+    border: 0cap;
+}
+#nvg{
+    background: rgb(207, 207, 207);
+    border: 2px solid black;
+}
